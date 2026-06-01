@@ -1,0 +1,17 @@
+@https://www.facebook.com/share/18pZev7U1B/;
+@https://www.instagram.com/basemtaha28?igsh=MWRrdHEwa21qbnpuNQ==;
+
+body{
+background:#050816;
+color:white;
+overflow-x:hidden;
+}
+
+html{
+scroll-behavior:smooth;
+}
+
+::selection{
+background:#00ffff;
+color:black;
+}
